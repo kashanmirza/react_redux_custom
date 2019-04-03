@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Redux Boilerplate
 > It's how _I_ like it, fork before using it.
 
@@ -49,3 +50,6 @@
 
 ### License
 MIT
+=======
+# react_redux_custom
+>>>>>>> 4c5af998d1e8e0ef68b856bd8b518b33742e9920
